@@ -1,4 +1,3 @@
-https://github.com/kinachsn/CurrencyConverter.git
 import requests
 import json
 class exchange:
